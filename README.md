@@ -35,6 +35,8 @@ Praticar conceitos fundamentais de programação, como:
 3. Depois de adicionar todos os nomes, clique em **Sortear amigo**.
 4. Veja o nome sorteado exibido abaixo da lista.
 
+🔗 [Clique aqui para acessar o projeto](https://iamandaleao.github.io/secret-pal/) *(ou use o link no canto superior direito da tela)*
+
 ---
 
 ## Tecnologias
