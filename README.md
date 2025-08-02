@@ -1,6 +1,21 @@
 # Amigo Secreto
 
-Projeto simples para sorteio de amigo secreto, criado para prática e estudo.
+Projeto do desafio Alura baseado na metodologia Challenge-Based Learning, focado no desenvolvimento da lógica de programação.
+
+<p align="center">
+  <img src="./assets/amigo-secreto.png" alt="Imagem do projeto" width="400" />
+</p>
+
+---
+## Objetivo
+
+Praticar conceitos fundamentais de programação, como:
+
+- Variáveis  
+- Condicionais (if/else)  
+- Funções  
+- Arrays (listas)  
+- Loops (repetição)
 
 ---
 
@@ -36,12 +51,6 @@ Projeto simples para sorteio de amigo secreto, criado para prática e estudo.
 - `style.css` — estilos da página.  
 - `app.js` — lógica de adicionar nomes, atualizar lista e sortear amigo.  
 - `assets/` — imagens usadas no projeto.
-
----
-
-## Capturas de tela
-
-![Imagem do projeto](./assets/amigo-secreto.png)
 
 ---
 
