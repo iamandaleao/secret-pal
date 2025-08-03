@@ -1,12 +1,22 @@
-# Amigo Secreto
+# Amigo Secreto – Projeto de Lógica e Programação
 
 Projeto do desafio Alura baseado na metodologia Challenge-Based Learning, focado no desenvolvimento da lógica de programação.
 
 <p align="center">
-  <img src="./assets/amigo-secreto.png" alt="Imagem do projeto" width="400" />
+  <table align="center">
+    <tr>
+      <td>
+        <img src="https://github.com/user-attachments/assets/5ca9d03d-5d73-49c1-889b-e08e362d727b" alt="Imagem do projeto" width="300" />
+      </td>
+      <td style="vertical-align: middle; padding-left: 20px;">
+        <img src="https://github.com/user-attachments/assets/610eb710-d044-48e3-83c2-96b6b22448da" alt="Badge ONE" width="160" />
+      </td>
+    </tr>
+  </table>
 </p>
 
 ---
+
 ## Objetivo
 
 Praticar conceitos fundamentais de programação, como:
@@ -66,9 +76,15 @@ Praticar conceitos fundamentais de programação, como:
 4. Envie para o repositório remoto:  
    `git push origin minha-feature`  
 5. Abra um Pull Request.
-
+   
 ---
 
 ## Licença
 
 Projeto aberto para estudos e uso pessoal.
+
+<p align="center">
+  Made with <span style="color:green;">&#10084;&#65039;</span> by <a href="https://www.linkedin.com/in/iamandaleao" target="_blank">Amanda Leão</a>
+</p>
+
+
